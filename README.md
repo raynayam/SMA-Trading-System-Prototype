@@ -1,6 +1,6 @@
-# Trading-Bot-Prototype-V1
+# SMA-Trading-System-Prototype
 
-# Trading Bot Deployment on Azure
+# Trading system Deployment on Azure
 
 This project demonstrates the deployment of a Python-based trading bot on Microsoft Azure. The bot interacts with the Tradovate API to execute trades and monitor market data.
 
